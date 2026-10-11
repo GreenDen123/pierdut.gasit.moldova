@@ -10,7 +10,7 @@ Data intrării în vigoare: **1 octombrie 2026**
 
 Operator de date cu caracter personal este dezvoltatorul privat **GreenAppStudio** — autorul și deținătorul aplicației Pierdut @ Găsit Moldova (în continuare — „Aplicația”).
 
-Contact pentru orice întrebări privind datele: **suport.pierdut.gasit@gmail.com**
+Contact pentru orice întrebări privind datele: **pierdut.gasit.moldova@gmail.com**
 
 Prelucrarea se efectuează în conformitate cu **Legea Republicii Moldova nr. 195/2024 privind protecția datelor cu caracter personal**, intrată în vigoare la 23 august 2026, care transpune în dreptul național prevederile Regulamentului (UE) 2016/679 (GDPR).
 
@@ -88,7 +88,7 @@ Nu vindem și nu transmitem date terților în scopuri publicitare. Prelucrarea 
 
 - **Supabase** — baza de date, stocarea fotografiilor și serviciul de autentificare. Aici se păstrează conturile, anunțurile, comentariile și cristalele. Serverele sunt amplasate în **Uniunea Europeană**.
 - **Google Firebase** (Cloud Messaging, Crashlytics, Analytics) — livrarea notificărilor push, rapoartele de erori și statistica depersonalizată de utilizare.
-- **Google AdMob** — afișarea publicității și a spoturilor recompensate.
+- **Appodeal** — afișarea publicității și a spoturilor recompensate.
 - **Google Sign-In** — conectarea în Aplicație prin contul Google.
 - **Organele de drept și alte autorități publice** — doar la solicitare legală motivată.
 
@@ -116,7 +116,7 @@ Prelucrarea datelor de către Google este guvernată de propriile politici de co
 
 8.3. Publicând asemenea informații, răspundeți personal pentru prelucrarea datelor altei persoane. Ștergem astfel de anunțuri imediat și fără avertisment și aplicăm sancțiuni autorului.
 
-8.4. Dacă ați descoperit în Aplicație datele dumneavoastră publicate de altcineva, scrieți la **suport.pierdut.gasit@gmail.com** — le vom șterge în termen de **3 zile lucrătoare**.
+8.4. Dacă ați descoperit în Aplicație datele dumneavoastră publicate de altcineva, scrieți la **pierdut.gasit.moldova@gmail.com** — le vom șterge în termen de **3 zile lucrătoare**.
 
 ---
 
@@ -139,7 +139,7 @@ Prelucrarea datelor de către Google este guvernată de propriile politici de co
 
 Conform Legii nr. 195/2024 aveți dreptul: de **acces** la datele dumneavoastră și la o copie a acestora; de **rectificare** a datelor inexacte; de **ștergere**; de **restricționare** a prelucrării; de **opoziție** față de prelucrarea bazată pe interes legitim; la **portabilitatea** datelor într-un format care poate fi citit automat; de a **retrage consimțământul**; de a depune **plângere la autoritatea de supraveghere**.
 
-**Cum le exercitați:** majoritatea drepturilor pot fi exercitate direct în Aplicație — **Profil → Anunțurile mele** (modificarea sau ștergerea publicației) și **Profil → Ștergere cont**. Celelalte solicitări transmiteți-le la **suport.pierdut.gasit@gmail.com** de pe adresa de e-mail indicată în cont (necesar pentru confirmarea identității). Răspundem în termen de **30 de zile**; pentru solicitările complexe termenul poate fi prelungit, cu notificare.
+**Cum le exercitați:** majoritatea drepturilor pot fi exercitate direct în Aplicație — **Profil → Anunțurile mele** (modificarea sau ștergerea publicației) și **Profil → Ștergere cont**. Celelalte solicitări transmiteți-le la **pierdut.gasit.moldova@gmail.com** de pe adresa de e-mail indicată în cont (necesar pentru confirmarea identității). Răspundem în termen de **30 de zile**; pentru solicitările complexe termenul poate fi prelungit, cu notificare.
 
 **Autoritatea de supraveghere:** Centrul Național pentru Protecția Datelor cu Caracter Personal al Republicii Moldova (CNPDCP), **datepersonale.md**.
 
@@ -155,7 +155,7 @@ Niciun serviciu nu poate garanta securitate absolută. În cazul unei încălcă
 
 ## 12. Limita de vârstă
 
-Aplicația este destinată persoanelor de **peste 18 ani** și nu se adresează copiilor. Nu colectăm cu bună știință date ale minorilor. Dacă ați aflat că un minor s-a înregistrat în Aplicație, anunțați-ne la **suport.pierdut.gasit@gmail.com** — contul și datele aferente vor fi șterse.
+Aplicația este destinată persoanelor de **peste 18 ani** și nu se adresează copiilor. Nu colectăm cu bună știință date ale minorilor. Dacă ați aflat că un minor s-a înregistrat în Aplicație, anunțați-ne la **pierdut.gasit.moldova@gmail.com** — contul și datele aferente vor fi șterse.
 
 ---
 
@@ -168,4 +168,4 @@ Putem actualiza prezenta Politică. Versiunea actuală este întotdeauna disponi
 ## 14. Contacte
 
 **GreenAppStudio** — dezvoltatorul aplicației Pierdut @ Găsit Moldova
-E-mail: **suport.pierdut.gasit@gmail.com**
+E-mail: **pierdut.gasit.moldova@gmail.com**
