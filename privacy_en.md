@@ -10,7 +10,7 @@ Effective date: **1 October 2026**
 
 The data controller is the independent developer **GreenAppStudio**, author and owner of the Pierdut @ Găsit Moldova app (the "App").
 
-Contact for any data-related question: **suport.pierdut.gasit@gmail.com**
+Contact for any data-related question: **pierdut.gasit.moldova@gmail.com**
 
 Processing is carried out in accordance with **Law No. 195/2024 of the Republic of Moldova on the protection of personal data**, in force since 23 August 2026, which transposes Regulation (EU) 2016/679 (GDPR) into national law.
 
@@ -88,7 +88,7 @@ We do not sell or share data with third parties for advertising purposes. The fo
 
 - **Supabase** — database, photo storage and authentication. Accounts, listings, comments and crystals are stored here. Servers are located in the **European Union**.
 - **Google Firebase** (Cloud Messaging, Crashlytics, Analytics) — push notification delivery, crash reports and anonymised usage statistics.
-- **Google AdMob** — serving ads and rewarded ads.
+- **Appodeal** — serving ads and rewarded ads.
 - **Google Sign-In** — signing in to the App with a Google account.
 - **Law enforcement and other public authorities** — only upon a reasoned lawful request.
 
@@ -116,7 +116,7 @@ Google's processing of data is governed by its own privacy policies.
 
 8.3. By publishing such information you become personally responsible for processing another person's data. We delete such listings immediately and without warning and apply sanctions to the author.
 
-8.4. If you find your own data published by someone else in the App, write to **suport.pierdut.gasit@gmail.com** — we will remove it within **3 business days**.
+8.4. If you find your own data published by someone else in the App, write to **pierdut.gasit.moldova@gmail.com** — we will remove it within **3 business days**.
 
 ---
 
@@ -139,7 +139,7 @@ Google's processing of data is governed by its own privacy policies.
 
 Under Law No. 195/2024 you have the right to: **access** your data and obtain a copy; **rectify** inaccurate data; **erase** it; **restrict** processing; **object** to processing based on legitimate interest; receive your data in a machine-readable format (**portability**); **withdraw consent**; and lodge a **complaint with the supervisory authority**.
 
-**How to exercise them:** most rights can be exercised directly in the App — **Profile → My listings** (edit or delete a post) and **Profile → Delete account**. Send any other request to **suport.pierdut.gasit@gmail.com** from the e-mail address registered to your account (this is needed to verify your identity). We respond within **30 days**; for complex requests the period may be extended with notice.
+**How to exercise them:** most rights can be exercised directly in the App — **Profile → My listings** (edit or delete a post) and **Profile → Delete account**. Send any other request to **pierdut.gasit.moldova@gmail.com** from the e-mail address registered to your account (this is needed to verify your identity). We respond within **30 days**; for complex requests the period may be extended with notice.
 
 **Supervisory authority:** National Centre for Personal Data Protection of the Republic of Moldova (CNPDCP), **datepersonale.md**.
 
@@ -155,7 +155,7 @@ No service can guarantee absolute security. In the event of a data breach that c
 
 ## 12. Age restriction
 
-The App is intended for persons **over 18** and is not directed at children. We do not knowingly collect data from minors. If you become aware that a minor has registered in the App, please tell us at **suport.pierdut.gasit@gmail.com** — the account and related data will be deleted.
+The App is intended for persons **over 18** and is not directed at children. We do not knowingly collect data from minors. If you become aware that a minor has registered in the App, please tell us at **pierdut.gasit.moldova@gmail.com** — the account and related data will be deleted.
 
 ---
 
@@ -168,4 +168,4 @@ We may update this Policy. The current version is always available under **Profi
 ## 14. Contact
 
 **GreenAppStudio** — developer of Pierdut @ Găsit Moldova
-E-mail: **suport.pierdut.gasit@gmail.com**
+E-mail: **pierdut.gasit.moldova@gmail.com**
